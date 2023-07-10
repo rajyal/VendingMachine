@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module VendingMachineProject {
+	requires junit;
+}
